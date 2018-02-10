@@ -34,7 +34,7 @@ namespace StaticClass
         static void Main(string[] args)
         {
             Logger.filepath = "D:\\a.txt";
-            Logger.log ( "Om Sai Ram hey ram" + Logger.dt);
+            Logger.log ( "SaiRam" + Logger.dt);
             Console.Read();
         }
     }
