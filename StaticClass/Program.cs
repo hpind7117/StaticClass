@@ -32,7 +32,7 @@ namespace StaticClass
     {
         static void Main(string[] args)
         {
-            Logger.filepath = "D:\\a.txt";
+            Logger.filepath = "~\\a.txt";
             Logger.log ( "Sai Ram");
             Console.Read();
         }
