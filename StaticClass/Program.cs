@@ -11,6 +11,7 @@ namespace StaticClass
     {
         public static readonly object lockobject=new object();
         public static string filepath { get; set; }
+        public static DateTime dt = DateTime.Now;
 
         public static  void log(string msg)
         {
@@ -32,8 +33,8 @@ namespace StaticClass
     {
         static void Main(string[] args)
         {
-            Logger.filepath = "..\\~\\a.txt";
-            Logger.log ( "Sai Ram");
+            Logger.filepath = "D:\\a.txt";
+            Logger.log ( "Om Sai Ram" + Logger.dt);
             Console.Read();
         }
     }
