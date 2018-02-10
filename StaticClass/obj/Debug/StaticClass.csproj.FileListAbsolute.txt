@@ -1,0 +1,6 @@
+E:\08122017\C#\Practice\OOPS\Class\StaticClass\StaticClass\bin\Debug\StaticClass.exe.config
+E:\08122017\C#\Practice\OOPS\Class\StaticClass\StaticClass\bin\Debug\StaticClass.exe
+E:\08122017\C#\Practice\OOPS\Class\StaticClass\StaticClass\bin\Debug\StaticClass.pdb
+E:\08122017\C#\Practice\OOPS\Class\StaticClass\StaticClass\obj\Debug\StaticClass.csprojResolveAssemblyReference.cache
+E:\08122017\C#\Practice\OOPS\Class\StaticClass\StaticClass\obj\Debug\StaticClass.exe
+E:\08122017\C#\Practice\OOPS\Class\StaticClass\StaticClass\obj\Debug\StaticClass.pdb
